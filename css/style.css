@@ -1,0 +1,20 @@
+body {
+  background: rgb(254, 232, 255);
+}
+
+h1,
+p,
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: green;
+}
+
+img {
+  max-width: 60%;
+  display: block;
+  margin: 30px auto;
+}
